@@ -170,7 +170,21 @@ main img {
   }
 
   .tools-dsk {
-  padding-bottom: 3px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  }
+
+  .project-img {
+    width: 60%;
+    height: 60%;
+  }
+  .potty-img {
+    width: 29%;
+    height: 55%;
+  }
+  .center {
+    text-align: center;
+    padding-top: 25px;
   }
 }
 
